@@ -1,8 +1,8 @@
-# ¡Hola! Soy Jhonatan Rojas , bienvenido a mi repo!
+# ¡Hola! Soy Jhonatan Rojas , bienvenido/a a mi repo!
 
 
 ### 🔭 Quién soy..
-[<img align="left" src="https://github.com/jhonatanrojasbastidas/jhonatanrojasbastidas/blob/main/images/snes.gif" width="200px">]
+<img align="left" src="https://github.com/jhonatanrojasbastidas/jhonatanrojasbastidas/blob/main/images/snes.gif" width="200px">
 
 Soy un **desarrollador Front-end junior**. Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.
 
