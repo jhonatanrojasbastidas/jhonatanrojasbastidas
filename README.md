@@ -4,10 +4,10 @@
 ### 🔭 Quién soy...
 <img align="left" src="https://github.com/jhonatanrojasbastidas/jhonatanrojasbastidas/blob/main/images/snes.gif" width="200px">
 
-Soy un **desarrollador Front-end **. Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.
+Soy un desarrollador Front-end. Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.
 
 Recientemente estoy en segundo semestre de la técnica desarrollador de software en la institución Cesde
-Y actualmente me encuentro finalizando la certificación de algoritmos de javascript y estructura de datos en la plataforma gratuita de freecodecamp.
+Y actualmente me encuentró finalizando la certificación de algoritmos de javascript y estructura de datos en la plataforma gratuita de freecodecamp.
 
 Soy una persona **resolutiva**, proactiva, alegre, motivada, habituada a trabajar en equipo y con grandes ganas de trabajar y seguir aprendiendo. 
 Quiero aprender mucho para poder educar o simplemente ayudar a las personas que estén interesadas en aprender programación web.
@@ -52,7 +52,8 @@ También tengo un blog dedicado a mis experiencias en el mundo de los videojuego
 ##### Blog
 
 <a href="https://escritoriodejohnro.wordpress.com"><img align="left" alt="Wordpress" width="30px" src="https://pngimg.com/uploads/wordpress/small/wordpress_PNG69.png"/></a>
-
+<br>
+<br>
 ---
 
 ### 📧 Contacto:
