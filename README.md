@@ -12,7 +12,7 @@ Y actualmente me encuentro finalizando la certificación de algoritmos de javasc
 Soy una persona **resolutiva**, proactiva, alegre, motivada, habituada a trabajar en equipo y con grandes ganas de trabajar y seguir aprendiendo. 
 Quiero aprender mucho para poder educar o simplemente ayudar a las personas que estén interesadas en aprender programación web.
 
-También tengo un blog dedicado a mis experiencias en el mundo de los videojuegos. <a href="https://escritoriodejohnro.wordpress.com/" target="_blank"><img alt="wordpress" src="https://pngimg.com/uploads/wordpress/small/wordpress_PNG55.png" width="400px" ></a>
+También tengo un blog dedicado a mis experiencias en el mundo de los videojuegos. <a href="https://escritoriodejohnro.wordpress.com/" target="_blank"><img alt="wordpress" src="https://pngimg.com/uploads/wordpress/small/wordpress_PNG69.png" width="40px" ></a>
 
 <br>
 <br>
