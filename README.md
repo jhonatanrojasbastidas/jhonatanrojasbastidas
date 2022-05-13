@@ -58,7 +58,7 @@ También tengo un blog dedicado a mis experiencias en el mundo de los videojuego
 
 ### 📧 Contacto:
 
-Puedes contactar conmigo en jhonatanrojasbastidas@gmail.com
+Puedes contactar conmigo en jonatanrojasbastidas@gmail.com
 
 <a href="https://www.linkedin.com/in/jhonatanrojasbastidas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
