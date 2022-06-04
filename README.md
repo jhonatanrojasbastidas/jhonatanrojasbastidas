@@ -6,7 +6,7 @@
 
 Soy un desarrollador Front-end. Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.
 
-Recientemente estoy en segundo semestre de la técnica desarrollador de software en la institución Cesde
+Recientemente estoy en cuarto semestre de la técnica desarrollador de software en la institución Cesde
 Y actualmente me encuentró finalizando la certificación de algoritmos de javascript y estructura de datos en la plataforma gratuita de freecodecamp.
 
 Soy una persona **resolutiva**, proactiva, alegre, motivada, habituada a trabajar en equipo y con grandes ganas de trabajar y seguir aprendiendo. 
